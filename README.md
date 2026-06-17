@@ -4,19 +4,19 @@
 
 This repository contains three data analytics projects completed as part of the InternSpark Data Analytics Internship.
 
-The objective of these projects was to develop practical skills in:
+The projects focus on developing practical skills in:
 
 * Data Cleaning
 * Exploratory Data Analysis (EDA)
 * Data Visualization
-* Business Insight Generation
-* Reporting and Documentation
+* Business Reporting
+* Insight Generation
 
-All analyses were performed using Python in Google Colab.
+All projects were completed using Python and Google Colab.
 
 ---
 
-## Projects Included
+## Projects Completed
 
 ### 1. Customer Behavior Analysis
 
@@ -25,42 +25,63 @@ Analyzed customer purchase behavior using an e-commerce dataset.
 Key areas explored:
 
 * Customer demographics
-* Product preferences
-* Payment behavior
-* Customer churn
+* Product category preferences
+* Payment methods
+* Customer churn analysis
 * RFM segmentation
+
+**Skills Demonstrated**
+
+* Customer Analytics
+* Churn Analysis
+* RFM Segmentation
+* Business Insight Generation
 
 ---
 
 ### 2. Sales Performance Analysis
 
-Analyzed retail sales data to evaluate business performance.
+Analyzed retail sales performance to identify revenue and profitability trends.
 
 Key areas explored:
 
-* Revenue trends
-* Category-wise sales
+* Sales trends
+* Category-wise performance
 * Regional performance
-* Profitability analysis
+* Profit analysis
 * Business recommendations
+
+**Skills Demonstrated**
+
+* Sales Analytics
+* Revenue Analysis
+* Data Visualization
+* Performance Reporting
 
 ---
 
 ### 3. Website Traffic Analysis
 
-Analyzed music-link website traffic data.
+Analyzed website traffic data from a music marketing platform.
 
 Key areas explored:
 
-* User activity patterns
-* Country-wise traffic
+* Traffic distribution
+* User engagement
+* Country-wise activity
 * Artist popularity
-* Daily engagement trends
-* Traffic insights
+* Trend analysis
+
+**Skills Demonstrated**
+
+* Traffic Analytics
+* Trend Analysis
+* User Behavior Analysis
+* Data Storytelling
 
 ---
 
-## Tools Used
+## Tools & Technologies
 
 * Python
 * Pandas
@@ -73,29 +94,43 @@ Key areas explored:
 
 ## Repository Structure
 
+```text
+Customer_Behavior_Analysis/
+Sales_Performance_Analysis/
+Website_Traffic_Analysis/
+Reports/
+README.md
+```
+
+### Contents
+
 Each project folder contains:
 
 * Dataset
 * Jupyter/Colab Notebook
-* Project README
 
-The Reports folder contains the final PDF reports for all projects.
+The Reports folder contains:
+
+* Customer_Report.pdf
+* Sales_Report.pdf
+* Traffic_Report.pdf
 
 ---
 
-## Internship Skills Demonstrated
+## Internship Learning Outcomes
 
-* Data Cleaning
-* Exploratory Data Analysis
-* Statistical Analysis
-* Data Visualization
-* Business Reporting
-* Insight Generation
+Through these projects I gained practical experience in:
+
+* Cleaning and preparing real-world datasets
+* Performing exploratory data analysis
+* Creating professional visualizations
+* Generating actionable business insights
+* Documenting analytical findings
 
 ---
 
 ## Author
 
-Saumya
+Saumya Dayal
 
 Data Analytics Intern
